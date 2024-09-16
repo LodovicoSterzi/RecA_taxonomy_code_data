@@ -3,7 +3,7 @@ In this repository, we have included custom scripts and data produced in the man
 
 ## Material stored in the repository
 ### Code:
-- *1_RecA_CPR_core_gene_identification*: this section contains a bash pipeline to perform the sequence clustering analysis used to obtain a core, single-copy protein marker in the CPR
+- *1_RecA_CPR_core_gene_identification*: this section contains a bash pipeline to perform the sequence clustering analysis used to search for a core, single-copy protein marker in the CPR
 - *2_Model_training_and_testing*: this section contains the scripts used to: 1) create a panbacterial RecA database; 2) count the kmers in the sequences; 3) the code used to train 
   and test the preliminary assignment models; 4) the code used to train and test the refined assignment models
 - *3_Tool_evaluation*: this section contains the code used to compute the metrics of the forestax output
